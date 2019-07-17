@@ -4,7 +4,7 @@ Talk performed by myself and [Tommaso Previero](https://github.com/eltomato) at 
 
 *Video*:
 
-*Slides*: [Slideshare](https://www.slideshare.net/CarloCorti5/superpoteri-e-crescita-esponenziale-dellorganizzazione-con-ia-c-agile-venture-vimercate-2019)
+*Slides*: [SpeakerDeck](https://speakerdeck.com/araknoid/exponential-growth-with-iac-superpowers-b2a87f68-4ba3-4200-9b3b-46a2618e2b3b)
 
 *Demo*: Code available in this repository
 
